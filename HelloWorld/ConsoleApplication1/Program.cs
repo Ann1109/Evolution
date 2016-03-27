@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         static void Main()
         {
-            Console.WriteLine("HELLO, WORLD!");
+            Console.WriteLine("CatsRuleWorld");
             Console.ReadKey();
         }
     }
